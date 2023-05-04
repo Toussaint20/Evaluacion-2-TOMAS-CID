@@ -1,0 +1,92 @@
+/*elementos de la barra de navegación*/
+#navbar{
+    padding-top:15px ;
+    background-color: rgb(214, 44, 44);
+}
+#navbar-label{
+    text-align: center;
+}
+.navbar-brand{
+    background-color: rgb(214, 44, 44);
+    font-size: 50px;
+
+}
+.dropdown-item{
+    font-size: 20px;
+}
+.offcanvas-header{
+    background-color:  rgb(214, 44, 44);
+
+}
+.offcanvas-body{
+    background-color:lightgrey;
+    font-size: 18px;
+}
+/*elementos del carousel*/
+#carousel{
+    height: 400px;
+}
+.carousel-inner img {
+    height: 400px;
+    width: 100%;
+}
+#carousel-lower{
+    background-color: rgb(214, 44, 44);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+}
+/*elementos de las cards*/
+#news-cards{
+    background-color:lightgrey;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+.card{
+    background-color:lightgrey;
+    border-radius: 10px;
+
+}
+.card-img-top{
+    border-radius: 10px 10px 0px 0px;
+    height: 350px;
+
+}
+.card-body{
+    height: 200px;   
+    background-color:rgb(87, 139, 103);
+    border-radius: 0px 0px 10px 10px;
+
+}
+/*elementos generales*/
+.link2 {
+    color: white;
+    font-size: 20px;
+   }
+.link2:hover {
+    color: #0011fd; 
+   } 
+
+.link {
+     color: white;
+    }
+.link:hover {
+     color: #00FF00; 
+    } 
+
+.login{
+    padding-top:150px
+
+}
+p{
+    color: rgba(255, 255, 255, 0.801);
+    font-size: 15px;
+}
+footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(214, 44, 44);
+    color: white;
+}
+
